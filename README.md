@@ -9,6 +9,6 @@
 
 
 ## My Github Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoncp&layout=compact)](https://github.com/antoncp/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=antoncp&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=antoncp)
