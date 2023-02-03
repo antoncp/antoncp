@@ -12,6 +12,4 @@
 ## My Github Stats
 ![Github Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=antoncp&&include_all_commits=true&line_height=40&hide_border=true&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoncp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ![](https://komarev.com/ghpvc/?username=antoncp)
