@@ -7,6 +7,7 @@
 - Learning to be a Python backend-developer
 - Yandex Practicum student (Python developer)
 - Going deeper into Python, Django, Flask, Bootstrap, Docker
+- Implemented several projects with telegram bots
 
 
 ## My Github Stats
