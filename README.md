@@ -4,10 +4,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Anton_Chaplygin-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anton-chaplygin-antoncp/)](https://www.linkedin.com/in/anton-chaplygin-antoncp/) 
 [![codewars](https://www.codewars.com/users/antoncp/badges/micro)](https://www.codewars.com/users/antoncp) 
 
-- Learning to be a Python backend-developer
-- Yandex Practicum student (Python developer)
+- Learning to be a Python backend-developer (Yandex Practicum student)
 - Going deeper into Python, Django, Flask, Bootstrap, Docker
-- Implemented several projects with telegram bots, including [bot for Yandex Practicum students](https://github.com/antoncp/bot_57)
+- Implemented several projects with Telegram bots, including [bot for Yandex Practicum students](https://github.com/antoncp/bot_57)
 
 
 ## My Github Stats
