@@ -5,7 +5,7 @@
 [![codewars](https://www.codewars.com/users/antoncp/badges/micro)](https://www.codewars.com/users/antoncp) 
 
 - Learning to be a Python backend-developer (Yandex Practicum student).
-- Going deeper into Django, Flask, Bootstrap, Docker ([REST API on Django for a feedback service](https://github.com/antoncp/api_yamdb)).
+- Going deeper into Django, Flask, FastAPI, Bootstrap, Docker ([REST API on Django for a feedback service](https://github.com/antoncp/api_yamdb)).
 - Implemented several projects with Telegram bots, including [bot for Yandex Practicum students](https://github.com/antoncp/bot_57), [personal budget bot](https://github.com/antoncp/easy_budget_tgbot), [aircraft monitoring bot](https://github.com/antoncp/plane_over_me_bot).
 
 
