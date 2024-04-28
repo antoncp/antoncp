@@ -13,6 +13,8 @@
 <a href="https://www.djangoproject.com"><img alt="Django" src="https://img.shields.io/badge/Django-FFF?logo=django&logoColor=FFF&labelColor=0C4B33" height="25px"></a>
 <a href="https://fastapi.tiangolo.com"><img alt="Fastapi" src="https://img.shields.io/badge/FastAPI-FFF?logo=fastapi&logoColor=FFF&labelColor=009485" height="25px"></a>
 <a href="https://flask.palletsprojects.com"><img alt="Flask" src="https://img.shields.io/badge/Flask-FFF?logo=flask&logoColor=FFF&labelColor=3FAABF" height="25px"></a>
+<a href="https://www.docker.com"><img alt="Docker" src="https://img.shields.io/badge/Docker-FFF?logo=docker&logoColor=FFF&labelColor=2496ED" height="25px"></a>
+<a href="https://www.postman.com"><img alt="Postman" src="https://img.shields.io/badge/Postman-FFF?logo=postman&logoColor=FFF&labelColor=FF6C37" height="25px"></a>
 
 ## My Github Stats
 [![Github stats](https://github-readme-stats.vercel.app/api?username=antoncp&show_icons=true&include_all_commits=true)](https://github.com/antoncp/github-readme-stats)
