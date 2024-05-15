@@ -22,6 +22,7 @@
 <a href="https://core.telegram.org/bots/api"><img alt="Telegram Bot API" src="https://img.shields.io/badge/Telegram Bot API-FFF?logo=telegram&logoColor=FFF&labelColor=27A8E9" height="25px"></a>
 <a href="https://github.com/features/actions"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub Actions-FFF?logo=githubactions&logoColor=FFF&labelColor=24292F" height="25px"></a>
 <a href="https://www.postman.com"><img alt="Postman" src="https://img.shields.io/badge/Postman-FFF?logo=postman&logoColor=FFF&labelColor=FF6C37" height="25px"></a>
+<a href="https://htmx.org/"><img alt="htmx" src="https://img.shields.io/badge/htmx-FFF?logo=htmx&logoColor=FFF&labelColor=3D72D7" height="25px"></a>
 
 ## My Github Stats
 [![Github stats](https://github-readme-stats.vercel.app/api?username=antoncp&show_icons=true&include_all_commits=true)](https://github.com/antoncp/github-readme-stats)
