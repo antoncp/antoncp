@@ -18,6 +18,7 @@
 <a href="https://www.mongodb.com/"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-FFF?logo=mongodb&logoColor=FFF&labelColor=14A44D" height="25px"></a>
 <a href="https://getbootstrap.com/"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-FFF?logo=bootstrap&logoColor=FFF&labelColor=8512F4" height="25px"></a>
 <a href="https://redis.io/"><img alt="Redis" src="https://img.shields.io/badge/Redis-FFF?logo=redis&logoColor=FFF&labelColor=FF4438" height="25px"></a>
+<a href="https://docs.celeryq.dev/en/stable/"><img alt="Celery" src="https://img.shields.io/badge/Celery-FFF?logo=celery&logoColor=FFF&labelColor=B6DE64" height="25px"></a>
 <a href="https://www.nginx.com/"><img alt="Nginx" src="https://img.shields.io/badge/Nginx-FFF?logo=nginx&logoColor=FFF&labelColor=009639" height="25px"></a>
 <a href="https://core.telegram.org/bots/api"><img alt="Telegram Bot API" src="https://img.shields.io/badge/Telegram Bot API-FFF?logo=telegram&logoColor=FFF&labelColor=27A8E9" height="25px"></a>
 <a href="https://github.com/features/actions"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub Actions-FFF?logo=githubactions&logoColor=FFF&labelColor=24292F" height="25px"></a>
